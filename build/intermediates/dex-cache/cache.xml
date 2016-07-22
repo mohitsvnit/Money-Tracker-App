@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a2f1535b63549d790ee2cee51bab6199ed97a195">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dbb842cfdd090a925bd3d065b2c9b713324dc255/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/devloper-softwares/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_308c547c80e452df84100b8afed3df5ca61d8fbc/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="60e7b5f23f907af01430876a7c27cb65a52c4ddb">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f23802c12ec0f86a52104b24f3f00e913428fbdd/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_3d62f5b87890f428314389cce2d1524ea6331de5/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_11ce062e5630a757c58acea51e1980ceed3451f3/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_806d7c299dc1a4bf205bef23f04dc383fd42cbdf/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_5250b34e813d90e500389013c3214ad14b51e3a6/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_52d186aae807a34e22111afc157742924eb3dcb1/classes.dex" />
+    </item>
+    <item
+        jar="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/mohit/AndroidStudioProjects/MoneyTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_304b9a8157afb7f72d16d942456e4b78e3fbc8f3/classes.dex" />
+    </item>
+
+</items>
